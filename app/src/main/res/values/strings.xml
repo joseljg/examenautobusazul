@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">examenazul1eval</string>
+    <string name="txt_imagen_autobus">imagen autobus</string>
+    <string name="numero_de_viajeros">Numero de Viajeros</string>
+    <string name="precio_viaje">Precio Viaje</string>
+    <string name="bt_mostrar_ingresos">Mostrar Ingresos</string>
+    <string name="bt_siguiente">Siguiente</string>
+    <string name="txt_numero_de_viajeros2">Num viajeros:</string>
+    <string name="txt_precio_billete">Precio billete:</string>
+    <string name="txt_precio_autobus">Precio autobus</string>
+    <string name="bt_aplicar">Aplicar</string>
+    <string name="ingresos">ingresos:</string>
+    <string name="gastos">gastos:</string>
+    <string name="iva">iva:</string>
+    <string name="total">total:</string>
+</resources>
